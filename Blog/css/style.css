@@ -1,0 +1,79 @@
+/* Header, footer */
+
+body{
+	background-color:orange
+}
+header, footer {
+  background-color: #38b6ff;
+}
+h1{
+	color:red;
+	font-size:
+}
+.p1{
+	background:linear-gradient(45deg,gold,red,green);
+	padding:10px;
+}	
+.k1{
+	width:825px;
+	border:4px double green;
+	border-radius:10px
+}
+.k2{
+	width:825px;
+	border:6px double gold;
+	border-radius:15px
+}
+.k3{
+	width:825px;
+	border:8px double red;
+	border-radius:20px
+}
+.k4{
+	width:825px;
+	border:8px double gold;
+	border-radius:20px
+}
+.k5{
+	width:825px;
+	border:6px double red;
+	border-radius:10px
+}
+.k6{
+	width:825px;
+	border:8px double green;
+	border-radius:10px
+}
+.k7{
+	width:825px;
+	border:4px double gold;
+	border-radius:15px
+}
+.p2{
+	background:linear-gradient(45deg,red,blue);
+	padding:10px;
+}	
+#nav{
+	padding: 10px 0 5px;
+	text-align: center;
+	list-style-type:  none;
+	font-family: Arvo,serif;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+#nav li{
+	display: inline;
+	margin-left:5px;
+}
+#nav a{
+	text-decoration: none;
+	color: #d9dada;
+	padding: 5px 10px;
+	font-weight: bold;
+	display: inline-block;
+}
+#nav a:hover{
+	background: #858a45;
+	color: #000033;
+	border-radius: 20px 5px;
+}
